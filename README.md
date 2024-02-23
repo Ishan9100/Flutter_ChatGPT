@@ -1,4 +1,4 @@
-# # Flutter ChatGPT Chatbot App
+# Flutter ChatGPT Chatbot App
 
 A Chatbot built using the Flutter framework and OpenAI's GPT-3 language model.
 
